@@ -188,7 +188,7 @@ pip install \
 ### 3. Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/stock-visualization-station.git /home/[YOUR USERNAME]/stock_project
+git clone https://github.com/masonliguore/StockCube /home/[YOUR USERNAME]/stock_project
 cd /home/[YOUR USERNAME]/stock_project
 ```
 
