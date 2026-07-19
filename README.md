@@ -24,9 +24,6 @@ The system is fully market-hours aware, automatically detecting pre-market, regu
 - **WS2812E LED status strip** with color-coded states
 - **Market-hours awareness** — pre-market, regular, after-hours, closed, weekend
 - **Headless framebuffer rendering** — no X11, Wayland, or desktop environment
-- **Direct evdev touch input** — no SDL, pygame, or display server required
-- **90° portrait rotation** — landscape framebuffer driven in portrait orientation
-- **Graceful shutdown** on SIGINT/SIGTERM with LED cleanup
 
 ---
 
